@@ -1,0 +1,98 @@
+[06:44:42] [WARNING] mysql_connect: no password specified
+[06:45:25] [ERROR] cache_get_value_name_int: value 'bunta' is not a number
+[10:27:32] [WARNING] mysql_connect: no password specified
+[10:28:30] [ERROR] cache_get_value_name_int: value 'bunta' is not a number
+[10:33:53] [WARNING] mysql_connect: no password specified
+[10:34:56] [ERROR] cache_get_value_name_int: value 'bunta' is not a number
+[11:08:43] [WARNING] mysql_connect: no password specified
+[11:09:37] [ERROR] cache_get_value_name_int: value 'bunta' is not a number
+[11:10:00] [ERROR] error #1064 while executing query "UPDATE `ulice` SET `uUlicaX` = '1814.506836', `uUlicaY` = '-1670.838745', `uUlicaZ` = '13.546875', `uPostavljena` = 'bunta', `uIme` = 'ide gas' , `uText` = '', 'uVlasnik' = 'bunta' WHERE `uSQLID` = '1' LIMIT 1": You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near ''uVlasnik' = 'bunta' WHERE `uSQLID` = '1' LIMIT 1' at line 1
+[11:10:57] [ERROR] error #1064 while executing query "UPDATE `ulice` SET `uUlicaX` = '1814.506836', `uUlicaY` = '-1670.838745', `uUlicaZ` = '13.546875', `uPostavljena` = 'bunta', `uIme` = 'najk ne addidas' , `uText` = '', 'uVlasnik' = 'bunta' WHERE `uSQLID` = '1' LIMIT 1": You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near ''uVlasnik' = 'bunta' WHERE `uSQLID` = '1' LIMIT 1' at line 1
+[11:15:43] [WARNING] mysql_connect: no password specified
+[11:16:54] [ERROR] cache_get_value_name_int: value 'bunta' is not a number
+[11:17:24] [ERROR] error #1064 while executing query "UPDATE `ulice` SET `uUlicaX` = '1845.483398', `uUlicaY` = '-1666.414307', `uUlicaZ` = '12.545066', `uPostavljena` = '_xunder', `uIme` = 'konj' , `uText` = '', 'uVlasnik' = '_xunder' WHERE `uSQLID` = '2' LIMIT 1": You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near ''uVlasnik' = '_xunder' WHERE `uSQLID` = '2' LIMIT 1' at line 1
+[11:26:06] [WARNING] mysql_connect: no password specified
+[11:34:46] [ERROR] cache_get_value_name_int: value 'bunta' is not a number
+[12:29:17] [WARNING] mysql_connect: no password specified
+[13:40:40] [WARNING] mysql_connect: no password specified
+[13:42:11] [WARNING] mysql_connect: no password specified
+[13:50:10] [WARNING] mysql_connect: no password specified
+[13:52:25] [WARNING] mysql_connect: no password specified
+[14:35:38] [WARNING] mysql_connect: no password specified
+[14:37:33] [WARNING] mysql_connect: no password specified
+[14:40:14] [WARNING] mysql_connect: no password specified
+[15:12:20] [WARNING] mysql_connect: no password specified
+[15:15:00] [WARNING] mysql_connect: no password specified
+[15:16:21] [WARNING] mysql_connect: no password specified
+[15:20:52] [WARNING] mysql_connect: no password specified
+[15:22:09] [WARNING] mysql_connect: no password specified
+[15:52:07] [WARNING] mysql_connect: no password specified
+[15:52:15] [ERROR] error #1054 while executing query "select * from `gangzone` order by `aktori`.`ActorSQLID ` asc": Unknown column 'aktori.ActorSQLID ' in 'order clause'
+[15:52:53] [WARNING] mysql_connect: no password specified
+[15:53:01] [ERROR] error #1054 while executing query "select * from `aktori` order by `aktori`.`ActorSQLID ` asc": Unknown column 'aktori.ActorSQLID ' in 'order clause'
+[15:54:28] [WARNING] mysql_connect: no password specified
+[15:55:42] [ERROR] mysql_tquery: callback error: parameter count does not match format specifier length
+[15:57:21] [ERROR] mysql_tquery: callback error: parameter count does not match format specifier length
+[15:58:32] [WARNING] mysql_connect: no password specified
+[15:59:38] [ERROR] error #1064 while executing query "INSERT INTO `aktori` SET `ActorSkinID` = '24": You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near ''24' at line 1
+[15:59:42] [ERROR] error #1064 while executing query "INSERT INTO `aktori` SET `ActorSkinID` = '0": You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near ''0' at line 1
+[15:59:43] [ERROR] error #1064 while executing query "INSERT INTO `aktori` SET `ActorSkinID` = '0": You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near ''0' at line 1
+[15:59:46] [ERROR] error #1064 while executing query "INSERT INTO `aktori` SET `ActorSkinID` = '286": You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near ''286' at line 1
+[15:59:47] [ERROR] error #1064 while executing query "INSERT INTO `aktori` SET `ActorSkinID` = '0": You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near ''0' at line 1
+[15:59:49] [ERROR] error #1064 while executing query "INSERT INTO `aktori` SET `ActorSkinID` = '0": You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near ''0' at line 1
+[16:01:31] [WARNING] mysql_connect: no password specified
+[18:49:26] [WARNING] mysql_connect: no password specified
+[20:31:43] [WARNING] mysql_connect: no password specified
+[20:32:12] [WARNING] mysql_connect: no password specified
+[20:38:49] [WARNING] mysql_connect: no password specified
+[20:40:50] [ERROR] error #1054 while executing query "UPDATE `drvo` SET `dDrvoX` = '-1003429512', `dDrvoY` = 'DV,ABœ', `dDrvoZ` = '1094849692', `dVrsta` = '', `dRast` = '' WHERE `fSQLID` = '0' LIMIT 1": Unknown column 'fSQLID' in 'where clause'
+[20:40:50] [ERROR] error #1054 while executing query "UPDATE `drvo` SET `dRastVoca` = '0', `dPostavljeno` = '', `dIDImanja` = '3' WHERE `fSQLID` = '0' LIMIT 1": Unknown column 'fSQLID' in 'where clause'
+[20:40:56] [ERROR] error #1062 while executing query "INSERT INTO `drvo` (`dSQLID`, `dDrvoX`, `dDrvoY`, `dDrvoZ`, `dVrsta`, `dRast`, `dRastVoca`, `dPostavljeno`, `dIDImanja`) VALUES ('0', '-704.488586', '857.686768', '11.789583', '0.000000', '0', '0', '1', '3');": Duplicate entry '0' for key 'PRIMARY'
+[20:40:56] [ERROR] error #1054 while executing query "UPDATE `drvo` SET `dDrvoX` = '-1003479227', `dDrvoY` = 'DVkôA<¢"', `dDrvoZ` = '1094492706', `dVrsta` = '', `dRast` = '' WHERE `fSQLID` = '0' LIMIT 1": Unknown column 'fSQLID' in 'where clause'
+[20:40:56] [ERROR] error #1054 while executing query "UPDATE `drvo` SET `dRastVoca` = '0', `dPostavljeno` = '', `dIDImanja` = '3' WHERE `fSQLID` = '0' LIMIT 1": Unknown column 'fSQLID' in 'where clause'
+[20:40:57] [ERROR] error #1054 while executing query "UPDATE `drvo` SET `dDrvoX` = '-1003429512', `dDrvoY` = 'DV,ABœ', `dDrvoZ` = '1094849692', `dVrsta` = '', `dRast` = '' WHERE `fSQLID` = '0' LIMIT 1": Unknown column 'fSQLID' in 'where clause'
+[20:40:57] [ERROR] error #1054 while executing query "UPDATE `drvo` SET `dRastVoca` = '0', `dPostavljeno` = '', `dIDImanja` = '3' WHERE `fSQLID` = '0' LIMIT 1": Unknown column 'fSQLID' in 'where clause'
+[20:40:57] [ERROR] error #1054 while executing query "UPDATE `drvo` SET `dDrvoX` = '-1003479227', `dDrvoY` = 'DVkôA<¢"', `dDrvoZ` = '1094492706', `dVrsta` = '', `dRast` = '' WHERE `fSQLID` = '0' LIMIT 1": Unknown column 'fSQLID' in 'where clause'
+[20:40:57] [ERROR] error #1054 while executing query "UPDATE `drvo` SET `dRastVoca` = '0', `dPostavljeno` = '', `dIDImanja` = '3' WHERE `fSQLID` = '0' LIMIT 1": Unknown column 'fSQLID' in 'where clause'
+[20:41:03] [ERROR] error #1054 while executing query "UPDATE `drvo` SET `dDrvoX` = '-1003521069', `dDrvoY` = 'DW&’A6ÌÂ', `dDrvoZ` = '1094110402', `dVrsta` = '', `dRast` = '' WHERE `fSQLID` = '2' LIMIT 1": Unknown column 'fSQLID' in 'where clause'
+[20:41:03] [ERROR] error #1054 while executing query "UPDATE `drvo` SET `dRastVoca` = '0', `dPostavljeno` = '', `dIDImanja` = '3' WHERE `fSQLID` = '2' LIMIT 1": Unknown column 'fSQLID' in 'where clause'
+[20:41:07] [ERROR] error #1062 while executing query "INSERT INTO `drvo` (`dSQLID`, `dDrvoX`, `dDrvoY`, `dDrvoZ`, `dVrsta`, `dRast`, `dRastVoca`, `dPostavljeno`, `dIDImanja`) VALUES ('0', '-701.965332', '863.651855', '11.319321', '0.000000', '0', '0', '1', '3');": Duplicate entry '0' for key 'PRIMARY'
+[20:41:07] [ERROR] error #1054 while executing query "UPDATE `drvo` SET `dDrvoX` = '-1003520568', `dDrvoY` = 'DWé¸A5ð', `dDrvoZ` = '1093999600', `dVrsta` = '', `dRast` = '' WHERE `fSQLID` = '0' LIMIT 1": Unknown column 'fSQLID' in 'where clause'
+[20:41:07] [ERROR] error #1054 while executing query "UPDATE `drvo` SET `dRastVoca` = '0', `dPostavljeno` = '', `dIDImanja` = '3' WHERE `fSQLID` = '0' LIMIT 1": Unknown column 'fSQLID' in 'where clause'
+[20:41:10] [ERROR] error #1054 while executing query "UPDATE `drvo` SET `dDrvoX` = '-1003474333', `dDrvoY` = 'DXA	A8SÚ', `dDrvoZ` = '1094210522', `dVrsta` = '', `dRast` = '' WHERE `fSQLID` = '4' LIMIT 1": Unknown column 'fSQLID' in 'where clause'
+[20:41:10] [ERROR] error #1054 while executing query "UPDATE `drvo` SET `dRastVoca` = '0', `dPostavljeno` = '', `dIDImanja` = '3' WHERE `fSQLID` = '4' LIMIT 1": Unknown column 'fSQLID' in 'where clause'
+[20:41:17] [ERROR] error #1054 while executing query "UPDATE `drvo` SET `dDrvoX` = '-1003374374', `dDrvoY` = 'DVŽAEûð', `dDrvoZ` = '1095105520', `dVrsta` = '', `dRast` = '' WHERE `fSQLID` = '5' LIMIT 1": Unknown column 'fSQLID' in 'where clause'
+[20:41:17] [ERROR] error #1054 while executing query "UPDATE `drvo` SET `dRastVoca` = '0', `dPostavljeno` = '', `dIDImanja` = '3' WHERE `fSQLID` = '5' LIMIT 1": Unknown column 'fSQLID' in 'where clause'
+[20:42:01] [ERROR] error #1054 while executing query "UPDATE `drvo` SET `dDrvoX` = '-1003429512', `dDrvoY` = 'DV,ABœ', `dDrvoZ` = '1094849692', `dVrsta` = '', `dRast` = '' WHERE `fSQLID` = '0' LIMIT 1": Unknown column 'fSQLID' in 'where clause'
+[20:42:01] [ERROR] error #1054 while executing query "UPDATE `drvo` SET `dRastVoca` = '0', `dPostavljeno` = '', `dIDImanja` = '3' WHERE `fSQLID` = '0' LIMIT 1": Unknown column 'fSQLID' in 'where clause'
+[20:42:01] [ERROR] error #1054 while executing query "UPDATE `drvo` SET `dDrvoX` = '-1003479227', `dDrvoY` = 'DVkôA<¢"', `dDrvoZ` = '1094492706', `dVrsta` = '', `dRast` = '' WHERE `fSQLID` = '0' LIMIT 1": Unknown column 'fSQLID' in 'where clause'
+[20:42:01] [ERROR] error #1054 while executing query "UPDATE `drvo` SET `dRastVoca` = '0', `dPostavljeno` = 'Ó’Â', `dIDImanja` = '3' WHERE `fSQLID` = '0' LIMIT 1": Unknown column 'fSQLID' in 'where clause'
+[20:42:01] [ERROR] error #1054 while executing query "UPDATE `drvo` SET `dDrvoX` = '-1003521069', `dDrvoY` = 'DW&’A6ÌÂ', `dDrvoZ` = '1094110402', `dVrsta` = '', `dRast` = '' WHERE `fSQLID` = '2' LIMIT 1": Unknown column 'fSQLID' in 'where clause'
+[20:42:01] [ERROR] error #1054 while executing query "UPDATE `drvo` SET `dRastVoca` = '0', `dPostavljeno` = '', `dIDImanja` = '3' WHERE `fSQLID` = '2' LIMIT 1": Unknown column 'fSQLID' in 'where clause'
+[20:42:01] [ERROR] error #1054 while executing query "UPDATE `drvo` SET `dDrvoX` = '-1003520568', `dDrvoY` = 'DWé¸A5ð', `dDrvoZ` = '1093999600', `dVrsta` = '', `dRast` = '' WHERE `fSQLID` = '0' LIMIT 1": Unknown column 'fSQLID' in 'where clause'
+[20:42:01] [ERROR] error #1054 while executing query "UPDATE `drvo` SET `dRastVoca` = '0', `dPostavljeno` = 'c	Ú', `dIDImanja` = '3' WHERE `fSQLID` = '0' LIMIT 1": Unknown column 'fSQLID' in 'where clause'
+[20:42:01] [ERROR] error #1054 while executing query "UPDATE `drvo` SET `dDrvoX` = '-1003474333', `dDrvoY` = 'DXA	A8SÚ', `dDrvoZ` = '1094210522', `dVrsta` = '', `dRast` = '' WHERE `fSQLID` = '4' LIMIT 1": Unknown column 'fSQLID' in 'where clause'
+[20:42:01] [ERROR] error #1054 while executing query "UPDATE `drvo` SET `dRastVoca` = '0', `dPostavljeno` = 'Úð', `dIDImanja` = '3' WHERE `fSQLID` = '4' LIMIT 1": Unknown column 'fSQLID' in 'where clause'
+[20:42:01] [ERROR] error #1054 while executing query "UPDATE `drvo` SET `dDrvoX` = '-1003374374', `dDrvoY` = 'DVŽAEûð', `dDrvoZ` = '1095105520', `dVrsta` = '', `dRast` = '' WHERE `fSQLID` = '5' LIMIT 1": Unknown column 'fSQLID' in 'where clause'
+[20:42:01] [ERROR] error #1054 while executing query "UPDATE `drvo` SET `dRastVoca` = '0', `dPostavljeno` = '', `dIDImanja` = '3' WHERE `fSQLID` = '5' LIMIT 1": Unknown column 'fSQLID' in 'where clause'
+[20:42:32] [WARNING] mysql_connect: no password specified
+[20:42:54] [WARNING] mysql_connect: no password specified
+[20:44:07] [ERROR] error #1054 while executing query "UPDATE `drvo` SET `dDrvoX` = '-1003429511', `dDrvoY` = 'DV,AB{', `dDrvoZ` = '1094849659', `dVrsta` = '', `dRast` = '×˜Í' WHERE `fSQLID` = '0' LIMIT 1": Unknown column 'fSQLID' in 'where clause'
+[20:44:07] [ERROR] error #1054 while executing query "UPDATE `drvo` SET `dRastVoca` = '1', `dPostavljeno` = '×˜Í', `dIDImanja` = '3' WHERE `fSQLID` = '0' LIMIT 1": Unknown column 'fSQLID' in 'where clause'
+[20:44:07] [ERROR] error #1054 while executing query "UPDATE `drvo` SET `dDrvoX` = '-1003521065', `dDrvoY` = 'DW&˜A6ÌÍ', `dDrvoZ` = '1094110413', `dVrsta` = '', `dRast` = '^ø' WHERE `fSQLID` = '2' LIMIT 1": Unknown column 'fSQLID' in 'where clause'
+[20:44:07] [ERROR] error #1054 while executing query "UPDATE `drvo` SET `dRastVoca` = '1', `dPostavljeno` = '^ø', `dIDImanja` = '3' WHERE `fSQLID` = '2' LIMIT 1": Unknown column 'fSQLID' in 'where clause'
+[20:44:07] [ERROR] error #1054 while executing query "UPDATE `drvo` SET `dDrvoX` = '-1003474338', `dDrvoY` = 'DXAA8Sø', `dDrvoZ` = '1094210552', `dVrsta` = '', `dRast` = 'Õç' WHERE `fSQLID` = '4' LIMIT 1": Unknown column 'fSQLID' in 'where clause'
+[20:44:07] [ERROR] error #1054 while executing query "UPDATE `drvo` SET `dRastVoca` = '1', `dPostavljeno` = 'Õç', `dIDImanja` = '3' WHERE `fSQLID` = '4' LIMIT 1": Unknown column 'fSQLID' in 'where clause'
+[20:44:07] [ERROR] error #1054 while executing query "UPDATE `drvo` SET `dDrvoX` = '-1003374379', `dDrvoY` = 'DVŽAEûç', `dDrvoZ` = '1095105511', `dVrsta` = '', `dRast` = '' WHERE `fSQLID` = '5' LIMIT 1": Unknown column 'fSQLID' in 'where clause'
+[20:44:07] [ERROR] error #1054 while executing query "UPDATE `drvo` SET `dRastVoca` = '1', `dPostavljeno` = '', `dIDImanja` = '3' WHERE `fSQLID` = '5' LIMIT 1": Unknown column 'fSQLID' in 'where clause'
+[20:45:31] [WARNING] mysql_connect: no password specified
+[20:47:31] [ERROR] error #1062 while executing query "INSERT INTO `drvo` (`dSQLID`, `dDrvoX`, `dDrvoY`, `dDrvoZ`, `dVrsta`, `dRast`, `dRastVoca`, `dPostavljeno`, `dIDImanja`) VALUES ('4', '-709.508118', '854.008118', '12.427864', '0.000000', '0', '0', '1', '3');": Duplicate entry '4' for key 'PRIMARY'
+[20:47:39] [ERROR] error #1062 while executing query "INSERT INTO `drvo` (`dSQLID`, `dDrvoX`, `dDrvoY`, `dDrvoZ`, `dVrsta`, `dRast`, `dRastVoca`, `dPostavljeno`, `dIDImanja`) VALUES ('5', '-713.842163', '854.774902', '12.793863', '0.000000', '0', '0', '1', '3');": Duplicate entry '5' for key 'PRIMARY'
+[20:47:46] [ERROR] error #1062 while executing query "INSERT INTO `drvo` (`dSQLID`, `dDrvoX`, `dDrvoY`, `dDrvoZ`, `dVrsta`, `dRast`, `dRastVoca`, `dPostavljeno`, `dIDImanja`) VALUES ('0', '-716.110291', '858.250183', '12.853355', '0.000000', '0', '0', '1', '3');": Duplicate entry '0' for key 'PRIMARY'
+[20:47:52] [ERROR] error #1062 while executing query "INSERT INTO `drvo` (`dSQLID`, `dDrvoX`, `dDrvoY`, `dDrvoZ`, `dVrsta`, `dRast`, `dRastVoca`, `dPostavljeno`, `dIDImanja`) VALUES ('0', '-709.839172', '864.944153', '11.988575', '0.000000', '0', '0', '1', '3');": Duplicate entry '0' for key 'PRIMARY'
+[20:54:01] [WARNING] mysql_connect: no password specified
+[10:35:24] [WARNING] mysql_connect: no password specified
+[10:47:25] [ERROR] error #1054 while executing query "SELECT LastSeen FROM `players` WHERE `Username` = 'a'": Unknown column 'Username' in 'where clause'
+[10:47:27] [ERROR] error #1054 while executing query "SELECT LastSeen FROM `players` WHERE `Username` = 'bunta'": Unknown column 'Username' in 'where clause'
+[10:47:33] [ERROR] error #1054 while executing query "SELECT LastSeen FROM `players` WHERE `Username` = 'Dragan_Zoranovic'": Unknown column 'Username' in 'where clause'
+[10:47:46] [ERROR] error #1054 while executing query "SELECT LastSeen FROM `players` WHERE `Username` = 'Zoki'": Unknown column 'Username' in 'where clause'

@@ -1,0 +1,33 @@
+D:\YourHome\pawno\include\fixes.inc(845) : îøèáêà 017: íåîáúÿâëåííûé ñèìâîë "MAX_PLAYERS"
+D:\YourHome\pawno\include\fixes.inc(851) : îøèáêà 017: íåîáúÿâëåííûé ñèìâîë "MAX_PLAYERS"
+D:\YourHome\pawno\include\fixes.inc(858) : îøèáêà 017: íåîáúÿâëåííûé ñèìâîë "MAX_PLAYERS"
+D:\YourHome\pawno\include\fixes.inc(864) : îøèáêà 017: íåîáúÿâëåííûé ñèìâîë "MAX_PLAYERS"
+D:\YourHome\pawno\include\fixes.inc(870) : îøèáêà 017: íåîáúÿâëåííûé ñèìâîë "MAX_PLAYERS"
+D:\YourHome\pawno\include\fixes.inc(885) : îøèáêà 017: íåîáúÿâëåííûé ñèìâîë "MAX_PLAYERS"
+D:\YourHome\pawno\include\fixes.inc(897) : îøèáêà 017: íåîáúÿâëåííûé ñèìâîë "MAX_PLAYERS"
+D:\YourHome\pawno\include\fixes.inc(903) : îøèáêà 017: íåîáúÿâëåííûé ñèìâîë "MAX_PLAYERS"
+D:\YourHome\pawno\include\fixes.inc(903) : îøèáêà 009: íåâåðíûé ðàçìåð ìàññèâà (îòðèöàòåëüíûé/íóëåâîé ðàçìåð èëè âûõîä çà ïðåäåëû ìàññèâà)
+D:\YourHome\pawno\include\fixes.inc(1237) : îøèáêà 017: íåîáúÿâëåííûé ñèìâîë "deleteproperty"
+D:\YourHome\pawno\include\fixes.inc(1239) : îøèáêà 017: íåîáúÿâëåííûé ñèìâîë "setproperty"
+D:\YourHome\pawno\include\fixes.inc(1240) : îøèáêà 017: íåîáúÿâëåííûé ñèìâîë "CallRemoteFunction"
+D:\YourHome\pawno\include\fixes.inc(1241) : îøèáêà 017: íåîáúÿâëåííûé ñèìâîë "deleteproperty"
+D:\YourHome\pawno\include\fixes.inc(1244) : îøèáêà 017: íåîáúÿâëåííûé ñèìâîë "CallRemoteFunction"
+D:\YourHome\pawno\include\fixes.inc(1262) : îøèáêà 017: íåîáúÿâëåííûé ñèìâîë "IsPlayerConnected"
+D:\YourHome\pawno\include\fixes.inc(1291) : îøèáêà 017: íåîáúÿâëåííûé ñèìâîë "funcidx"
+D:\YourHome\pawno\include\fixes.inc(1293) : îøèáêà 017: íåîáúÿâëåííûé ñèìâîë "funcidx"
+D:\YourHome\pawno\include\fixes.inc(1295) : îøèáêà 017: íåîáúÿâëåííûé ñèìâîë "funcidx"
+D:\YourHome\pawno\include\fixes.inc(1297) : îøèáêà 017: íåîáúÿâëåííûé ñèìâîë "funcidx"
+D:\YourHome\pawno\include\fixes.inc(1301) : îøèáêà 017: íåîáúÿâëåííûé ñèìâîë "funcidx"
+D:\YourHome\pawno\include\fixes.inc(1306) : îøèáêà 017: íåîáúÿâëåííûé ñèìâîë "funcidx"
+D:\YourHome\pawno\include\fixes.inc(1309) : îøèáêà 017: íåîáúÿâëåííûé ñèìâîë "funcidx"
+D:\YourHome\pawno\include\fixes.inc(1312) : îøèáêà 017: íåîáúÿâëåííûé ñèìâîë "funcidx"
+D:\YourHome\pawno\include\fixes.inc(1315) : îøèáêà 017: íåîáúÿâëåííûé ñèìâîë "funcidx"
+D:\YourHome\pawno\include\fixes.inc(1322) : îøèáêà 017: íåîáúÿâëåííûé ñèìâîë "funcidx"
+D:\YourHome\pawno\include\fixes.inc(1325) : îøèáêà 017: íåîáúÿâëåííûé ñèìâîë "funcidx"
+
+Êîìïèëÿöèÿ îñòàíîâëåíà.
+
+Pawn compiler 3.2.3664	 	 	Copyright (c) 1997-2016, ITB CompuPhase
+
+
+Îøèáîê:26.

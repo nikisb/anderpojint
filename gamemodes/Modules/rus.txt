@@ -1,0 +1,33 @@
+C:\Users\nykyl\Downloads\Ukleta Kuca v2.1.3\Ukleta Kuca v2.1.3\gamemodes\Modules\firme.pwn(1032) : îøèáêà 017: íåîáúÿâëåííûé ñèìâîë "MAX_PLAYER_NAME"
+C:\Users\nykyl\Downloads\Ukleta Kuca v2.1.3\Ukleta Kuca v2.1.3\gamemodes\Modules\firme.pwn(27) : îøèáêà 017: íåîáúÿâëåííûé ñèìâîë "MAX_PLAYERS"
+C:\Users\nykyl\Downloads\Ukleta Kuca v2.1.3\Ukleta Kuca v2.1.3\gamemodes\Modules\firme.pwn(32) : îøèáêà 010: íåâåðíàÿ ôóíêöèÿ èëè îáúÿâëåíèå
+C:\Users\nykyl\Downloads\Ukleta Kuca v2.1.3\Ukleta Kuca v2.1.3\gamemodes\Modules\firme.pwn(34) : îøèáêà 010: íåâåðíàÿ ôóíêöèÿ èëè îáúÿâëåíèå
+C:\Users\nykyl\Downloads\Ukleta Kuca v2.1.3\Ukleta Kuca v2.1.3\gamemodes\Modules\firme.pwn(36) : îøèáêà 010: íåâåðíàÿ ôóíêöèÿ èëè îáúÿâëåíèå
+C:\Users\nykyl\Downloads\Ukleta Kuca v2.1.3\Ukleta Kuca v2.1.3\gamemodes\Modules\firme.pwn(38) : îøèáêà 010: íåâåðíàÿ ôóíêöèÿ èëè îáúÿâëåíèå
+C:\Users\nykyl\Downloads\Ukleta Kuca v2.1.3\Ukleta Kuca v2.1.3\gamemodes\Modules\firme.pwn(40) : îøèáêà 010: íåâåðíàÿ ôóíêöèÿ èëè îáúÿâëåíèå
+C:\Users\nykyl\Downloads\Ukleta Kuca v2.1.3\Ukleta Kuca v2.1.3\gamemodes\Modules\firme.pwn(41) : îøèáêà 010: íåâåðíàÿ ôóíêöèÿ èëè îáúÿâëåíèå
+C:\Users\nykyl\Downloads\Ukleta Kuca v2.1.3\Ukleta Kuca v2.1.3\gamemodes\Modules\firme.pwn(43) : îøèáêà 017: íåîáúÿâëåííûé ñèìâîë "i"
+C:\Users\nykyl\Downloads\Ukleta Kuca v2.1.3\Ukleta Kuca v2.1.3\gamemodes\Modules\firme.pwn(44) : îøèáêà 017: íåîáúÿâëåííûé ñèìâîë "i"
+C:\Users\nykyl\Downloads\Ukleta Kuca v2.1.3\Ukleta Kuca v2.1.3\gamemodes\Modules\firme.pwn(45) : îøèáêà 010: íåâåðíàÿ ôóíêöèÿ èëè îáúÿâëåíèå
+C:\Users\nykyl\Downloads\Ukleta Kuca v2.1.3\Ukleta Kuca v2.1.3\gamemodes\Modules\firme.pwn(46) : îøèáêà 010: íåâåðíàÿ ôóíêöèÿ èëè îáúÿâëåíèå
+C:\Users\nykyl\Downloads\Ukleta Kuca v2.1.3\Ukleta Kuca v2.1.3\gamemodes\Modules\firme.pwn(47) : îøèáêà 010: íåâåðíàÿ ôóíêöèÿ èëè îáúÿâëåíèå
+C:\Users\nykyl\Downloads\Ukleta Kuca v2.1.3\Ukleta Kuca v2.1.3\gamemodes\Modules\firme.pwn(48) : îøèáêà 010: íåâåðíàÿ ôóíêöèÿ èëè îáúÿâëåíèå
+C:\Users\nykyl\Downloads\Ukleta Kuca v2.1.3\Ukleta Kuca v2.1.3\gamemodes\Modules\firme.pwn(49) : îøèáêà 010: íåâåðíàÿ ôóíêöèÿ èëè îáúÿâëåíèå
+C:\Users\nykyl\Downloads\Ukleta Kuca v2.1.3\Ukleta Kuca v2.1.3\gamemodes\Modules\firme.pwn(50) : îøèáêà 010: íåâåðíàÿ ôóíêöèÿ èëè îáúÿâëåíèå
+C:\Users\nykyl\Downloads\Ukleta Kuca v2.1.3\Ukleta Kuca v2.1.3\gamemodes\Modules\firme.pwn(51) : îøèáêà 010: íåâåðíàÿ ôóíêöèÿ èëè îáúÿâëåíèå
+C:\Users\nykyl\Downloads\Ukleta Kuca v2.1.3\Ukleta Kuca v2.1.3\gamemodes\Modules\firme.pwn(52) : îøèáêà 010: íåâåðíàÿ ôóíêöèÿ èëè îáúÿâëåíèå
+C:\Users\nykyl\Downloads\Ukleta Kuca v2.1.3\Ukleta Kuca v2.1.3\gamemodes\Modules\firme.pwn(53) : îøèáêà 010: íåâåðíàÿ ôóíêöèÿ èëè îáúÿâëåíèå
+C:\Users\nykyl\Downloads\Ukleta Kuca v2.1.3\Ukleta Kuca v2.1.3\gamemodes\Modules\firme.pwn(54) : îøèáêà 010: íåâåðíàÿ ôóíêöèÿ èëè îáúÿâëåíèå
+C:\Users\nykyl\Downloads\Ukleta Kuca v2.1.3\Ukleta Kuca v2.1.3\gamemodes\Modules\firme.pwn(55) : îøèáêà 010: íåâåðíàÿ ôóíêöèÿ èëè îáúÿâëåíèå
+C:\Users\nykyl\Downloads\Ukleta Kuca v2.1.3\Ukleta Kuca v2.1.3\gamemodes\Modules\firme.pwn(56) : îøèáêà 010: íåâåðíàÿ ôóíêöèÿ èëè îáúÿâëåíèå
+C:\Users\nykyl\Downloads\Ukleta Kuca v2.1.3\Ukleta Kuca v2.1.3\gamemodes\Modules\firme.pwn(57) : îøèáêà 010: íåâåðíàÿ ôóíêöèÿ èëè îáúÿâëåíèå
+C:\Users\nykyl\Downloads\Ukleta Kuca v2.1.3\Ukleta Kuca v2.1.3\gamemodes\Modules\firme.pwn(58) : îøèáêà 010: íåâåðíàÿ ôóíêöèÿ èëè îáúÿâëåíèå
+C:\Users\nykyl\Downloads\Ukleta Kuca v2.1.3\Ukleta Kuca v2.1.3\gamemodes\Modules\firme.pwn(59) : îøèáêà 010: íåâåðíàÿ ôóíêöèÿ èëè îáúÿâëåíèå
+C:\Users\nykyl\Downloads\Ukleta Kuca v2.1.3\Ukleta Kuca v2.1.3\gamemodes\Modules\firme.pwn(60) : îøèáêà 010: íåâåðíàÿ ôóíêöèÿ èëè îáúÿâëåíèå
+
+Êîìïèëÿöèÿ îñòàíîâëåíà.
+
+Pawn compiler 3.2.3664	 	 	Copyright (c) 1997-2016, ITB CompuPhase
+
+
+Îøèáîê:26.

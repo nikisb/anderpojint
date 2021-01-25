@@ -1,0 +1,4 @@
+[10:47:25] [plugins/mysql] error #1054 while executing query "SELECT LastSeen FROM `players` WHERE `Username` = 'a'": Unknown column 'Username' in 'where clause'
+[10:47:27] [plugins/mysql] error #1054 while executing query "SELECT LastSeen FROM `players` WHERE `Username` = 'bunta'": Unknown column 'Username' in 'where clause'
+[10:47:33] [plugins/mysql] error #1054 while executing query "SELECT LastSeen FROM `players` WHERE `Username` = 'Dragan_Zoranovic'": Unknown column 'Username' in 'where clause'
+[10:47:46] [plugins/mysql] error #1054 while executing query "SELECT LastSeen FROM `players` WHERE `Username` = 'Zoki'": Unknown column 'Username' in 'where clause'
